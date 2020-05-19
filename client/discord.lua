@@ -13,15 +13,15 @@ Citizen.CreateThread(function()
             end
         end
 
-        SetDiscordAppId(DISCORD_ID)
+        SetDiscordAppId(YOUR DISCORD RPC ID)
         -- Sync je na IAP
         --SetRichPresence("ID: " .. GetPlayerServerId(NetworkGetEntityOwner(GetPlayerPed(-1)))  | "Lokacija: " .. GetStreetNameFromHashKey(GetStreetNameAtCoord(table.unpack(GetEntityCoords(ime)))))
         SetRichPresence("ID: " .. GetPlayerServerId(NetworkGetEntityOwner(GetPlayerPed(-1))) .. " | " .. GetPlayerName(PlayerId()) .. nalaziste .. " - " .. onlineIgraci .. "/32")
 
-        SetDiscordRichPresenceAsset(img)
-        SetDiscordRichPresenceAssetText(some text)
+        SetDiscordRichPresenceAsset("photo")
+        SetDiscordRichPresenceAssetText("text")
 
-        SetDiscordRichPresenceAssetSmall(img)
-        SetDiscordRichPresenceAssetSmallText(some text)
+        SetDiscordRichPresenceAssetSmall("photo")
+        SetDiscordRichPresenceAssetSmallText("text")
     end
 end)
