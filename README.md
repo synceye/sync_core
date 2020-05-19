@@ -3,6 +3,7 @@ sync_core is a framework that has everything to start a simple server, it will b
 
 ## Sponsor
 FireLion Hosting is a really cheap but really good hosting. Rent a FiveM server at https://www.firelion-hosting.com/ and get a 25% discount with code `sync25`!
+
 ![](https://www.firelion-hosting.com/images/logo/logo.png)
 
 ## Requirements
