@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS `sync_core`;
+USE `sync_core`;
+
+CREATE TABLE `data` (
+	`id` VARCHAR(50) NULL DEFAULT NULL,
+	`name` VARCHAR(50) NULL DEFAULT NULL,
+	`args` VARCHAR(255) NULL DEFAULT NULL
+)
+COLLATE=`latin1_swedish_ci`
+ENGINE=INNODB
+;
+

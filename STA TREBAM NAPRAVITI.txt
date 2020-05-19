@@ -1,0 +1,3 @@
+Make an UI with money system
+add spawn auta
+add /mojid
