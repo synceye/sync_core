@@ -18,4 +18,8 @@ ensure sync_core
   - Third,
   import sync_core.sql into your database
   
+  - Fourth, 
+  go in config.lua and add discord webhook links for a discord channel and image to be displayed
+  go to the client/discord.lua and add your discord id and images and text
+  
   - And you are done!
