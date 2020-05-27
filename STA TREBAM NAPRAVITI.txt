@@ -1,3 +1,4 @@
 Napraviti UI sa money systemom
+dodaj voice
 dodaj spawn auta
 dodaj /mojid

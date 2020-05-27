@@ -25,9 +25,13 @@ server_scripts {
     'server/main.lua',
     'server/common.lua',
     'config.lua',
+    'server/discord_whitelist.lua',
+    'server/discord_perms.lua'
 }
 
+server_export "IsRolePresent"
+server_export "GetRoles"
+
 dependencies {
-    --'es_extended',
     'mysql-async'
 }

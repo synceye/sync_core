@@ -8,3 +8,9 @@ MySQL.ready(function()
     else
     end
 end)
+
+AddEventHandler("playerConnecting", function(name, setCallback, deferrals)
+    deferrals.defer()
+    deferrals.update("[sync_core] Connecting...")
+    deferrals.done()
+end)

@@ -23,6 +23,7 @@ AddEventHandler('onClientMapStart', function()
 	end
 end)
 
+AddEventHandler('esx:loadingScreenOff', function()
 	Citizen.CreateThread(function()
 		while true do
 			Citizen.Wait(1)
@@ -56,3 +57,4 @@ end)
 			end
 		end
 	end)
+end)
