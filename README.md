@@ -2,7 +2,7 @@
 sync_core is a framework that has everything to start a simple server, it will be updated constantly, there are a lot of errors and bugs. If you are a developer, feel free to fork my project and remake it. :)
 
 ## Sponsor
-FireLion Hosting is a really cheap but really good hosting. Rent a FiveM server and download sync_core at https://www.firelion-hosting.com/ and get a 25% discount with code `sync25`!
+FireLion Hosting is a really cheap but really good hosting. Rent a FiveM server and download sync_core at https://www.firelion-hosting.com/ and get a 25% or 30% discount with codes `sync25` & `sync30`!
 
 ![](https://www.firelion-hosting.com/images/logo/logo.png)
 
