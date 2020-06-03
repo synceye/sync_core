@@ -28,5 +28,3 @@ ensure sync_core
   go to the client/discord.lua and add your discord id and images and text
   
   - And you are done!
-  
-  for updates you will be informed lol
