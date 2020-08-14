@@ -20,7 +20,6 @@ DiscordToken = "Bot Discord Token Here",
 GuildId = "Guild ID Here",
 Roles = {
 	["TestRole"] = "Some Role ID" -- This would be checked by doing exports.discord_perms:IsRolePresent(user, "TestRole")
-}
 -- WHITELIST -- 
 
 --/////////////////////////--
